@@ -1,0 +1,119 @@
+[ null, {
+  "BigDescr" : "It is a multi-year plant, grown as an annual. The fruit is a fleshy berry of various shapes (cylindrical, ovoid, almost spherical) and colors (violet, black, purple, white, marbled white) according to varieties. The seeds are small, flattened and brownish in color. It is a food low in calories and very light, low in carbohydrates, proteins and sodium content. Rich in easily digestible vegetable fiber, very rich in zinc and potassium, vitamins and pigments. It is considered laxative, diuretic, stimulates bile secretion, facilitates digestion and reduces the level of cholesterol in the blood. It is one of the vegetables with the highest antioxidant activity, which is attributed to its high content of polyphenols and other compounds. It also contains vitamin C.",
+  "Descr" : " It belongs to the solanaceae family, Solanum melongena L.",
+  "Name" : "Aubergines",
+  "continent" : "Asia",
+  "img" : "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Aubergine.jpg/200px-Aubergine.jpg",
+  "img1200x900" : "https://images.food52.com/djvoyddiO2e6uYBLzRBx3peQYZI=/1200x900/d64d45f2-9315-4993-85e5-1cb94231feac--2013-0816_prepare-eggplant-017.jpg",
+  "temp_max" : 35,
+  "temp_min" : 0,
+  "temp_opt" : "22-26"
+}, {
+  "BigDescr" : "It is a biennial, monocotyledonous, cross-pollinating plant that is grown as an annual to collect its bulbs. Onion is considered a food with excellent nutritional and medicinal properties. It hardly contributes proteins, fats and carbohydrates. It has very few calories. Its nutritional value is that it is rich in fiber, flavonoids, potassium and sulfur compounds. It is diuretic and helps eliminate toxins and fluids. Due to its alliin and allicin content, it contributes to the reduction of blood pressure and has anti-inflammatory and antioxidant properties. Due to its compounds rich in sulfur, it is a natural antibiotic; has bactericidal action. Other components such as flavonoids and quercetin help in the prevention of coronary heart disease and cancer.",
+  "Descr" : "The onion Allium cepa L., of the Liliaceae family.",
+  "Name" : "Onions",
+  "continent" : "Asia",
+  "img" : "https://www.checkers.co.za/medias/10145270KG-20190726-Media-checkers515Wx515H?context=bWFzdGVyfGltYWdlc3wzMDUzMDN8aW1hZ2UvcG5nfGltYWdlcy9oMDcvaDYyLzg4NTc3MzExMDQ3OTgucG5nfDdlMWRhZGJmOTI2MWNmYzk5MzllMDBkNGFlMzEyZGRlNmI4NGY0MjNmMTE3ZTE0OTkwNzI4NGMyMTZiNjQ2MWM",
+  "img1200x900" : "https://i.ibb.co/vDcXRcj/ONION.jpg",
+  "temp_max" : 30,
+  "temp_min" : -8,
+  "temp_opt" : "12-23"
+}, {
+  "BigDescr" : "The potato is a dicotyledonous, herbaceous, annual plant, but it can be considered as a potential perennial, due to its ability to reproduce vegetatively through tubers. The potato plant is composed of an aerial part that grows above the ground, in which stems, leaves, flowers and fruits stand out, and another part that grows underground and corresponds to stolons, tubers and roots. Rich in fibers, which favor the impression of satiety, it allows us to reduce the total food intake. However, the preparation and consumption of potatoes with high-fat ingredients increases the caloric value of the product. This tuber is a food rich in carbohydrates, of great importance in our daily diet, which is why nutrition experts recommend its daily consumption.",
+  "Descr" : "The cultivated potato belongs to the Solanaceae family.",
+  "Name" : "Potatoes",
+  "continent" : "America",
+  "img" : "http://perryponders.com/wp-content/uploads/2015/01/potato_png2391.png",
+  "img1200x900" : "https://i.ibb.co/hXSdf01/POTATOES.jpg",
+  "temp_max" : 30,
+  "temp_min" : -2,
+  "temp_opt" : "13-18"
+}, {
+  "BigDescr" : "Biennial cold season plant. It is consumed directly fresh, cooked, frozen, in fourth range, in purees, juices and food for children, in the extraction of natural colorants, oleoresins, etc. High content of vitamins (A, B and C), mainly as provitamin A (b-carotene). Due to its great richness in vitamins, it is considered a food with clear antioxidant properties. It is also used as an antidiarrheal.",
+  "Descr" : "It belongs to the botanical family Umbelliferae.",
+  "Name" : "Carrots",
+  "continent" : "Europe",
+  "img" : "https://d1nw62gticy6e9.cloudfront.net/uploads/Danvers.jpg",
+  "img1200x900" : "https://i.ibb.co/0GvSX4N/CARROT.jpg",
+  "temp_max" : 28,
+  "temp_min" : -5,
+  "temp_opt" : "16-18"
+}, {
+  "BigDescr" : "Cauliflower is a winter vegetable that grows in the form of small tightly packed white bouquets, all attached at the base to the same stem. It is round in shape and large. Cauliflower is also credited with anti-cancer properties. It has a low caloric density (that is, it provides very few calories and a lot of volume), it is very rich in fiber, vitamin C, folates, vitamin B6 and minerals (potassium and phosphorus). It also contains modest amounts of iron, magnesium, and calcium.",
+  "Descr" : "They belong to the Cruciferae or Brassicaceae family.",
+  "Name" : "Cauliflower",
+  "continent" : "Near East - Asia",
+  "img" : "https://www.yummytoddlerfood.com/wp-content/uploads/2019/02/cauliflower.jpg",
+  "img1200x900" : "https://i.ibb.co/JdM2BgK/CAULIFLOWER.jpg",
+  "temp_max" : 26,
+  "temp_min" : 0,
+  "temp_opt" : "15-21"
+}, {
+  "BigDescr" : " Broccoli has large flower heads, usually dark green in color, arranged in a tree-like structure that branches off from a thick stem that is usually light green in color. The mass of flower heads is surrounded by leaves and is eaten raw or cooked. It is a good source of b-carotenes (precursors of vitamin A), vitamin C, folic acid, iron and potassium. Extensive anticancer properties are attributed to it both for its glucosinolate content (glucobrassicin, glucoraphanin, etc.) and for its high availability of vitamin A. When cooked, it gives off a characteristic strong smell due to its content of sulfur substances.",
+  "Descr" : "They belong to the Cruciferae or Brassicaceae family.",
+  "Name" : "Broccoli",
+  "continent" : "Near East - Mediteraneum",
+  "img" : "https://www.thespruceeats.com/thmb/G50VMY4P19AWjBOU0BXfGRKykVA=/2688x2688/smart/filters:no_upscale()/BroccoliHeads-59acaa7b519de20010ac5ec7.jpg",
+  "img1200x900" : "https://i.ibb.co/dcmtqRD/BROCOLI.jpg",
+  "temp_max" : 30,
+  "temp_min" : 0,
+  "temp_opt" : "20-24"
+}, {
+  "BigDescr" : "It is one of the characteristic vegetables of winter, and it is known by different names: cabbage, cabbage, collard greens ... sometimes we refer to the same variety by these names. Various medicinal properties are attributed to them as digestive plants, as well as that they could eliminate the effects of alcoholic intoxication. Also, due to their content in glucosinolates, they are considered a preventive element of cancerous tumors.",
+  "Descr" : "They belong to the Cruciferae or Brassicaceae family.",
+  "Name" : "Cabagge",
+  "continent" : "Near East",
+  "img" : "https://alchetron.com/cdn/cabbage-b2501af2-f118-4002-82d7-0f97f47187a-resize-750.jpeg",
+  "img1200x900" : "https://images.food52.com/-r1-Tr49diF7as7HlrMBdKrmmO4=/1200x900/481d0d1f-3954-49fe-8d97-2702871941ef--bok-choy_food52_mark_weinberg_14-11-18_0033.jpg",
+  "temp_min" : -10,
+  "temp_opt" : "10-18"
+}, {
+  "BigDescr" : "Chard is a biennial plant. With a deep root system and large heart-shaped oval leaves, puffed or smooth depending on the variety, they have a wide and long petiole or stalk, which extends into the blade, the leaves being the edible part of this plant. It can be consumed raw in salads, or cooked. The entire plant is consumed, including the leaves. It is consumed mainly cooked. It is laxative and digestive. It is highly recommended in weight control diets as it is very satiating, nutritious and low in calories. Throughout history they have given it a large number of medicinal benefits: anticancer, diuretic, purifier, favors intestinal transit, helps the good formation of the fetus during pregnancy, etc. Swiss chard is very rich in vitamins and minerals, they provide a lot of iodine, iron and magnesium and somewhat less potassium and calcium. In addition, they provide folates, vitamin C, vitamin A, niacin and lutein.",
+  "Descr" : "Chard is a biennial plant of the Chenopodiaceae family.",
+  "Name" : "Chard",
+  "continent" : "Europe",
+  "img" : "https://cdn3.volusion.com/kceqm.mleru/v/vspfiles/photos/1362-2.jpg?v-cache=1588155530",
+  "img1200x900" : "https://i.ibb.co/bzYmsyY/CHARDS.jpg",
+  "temp_max" : 33,
+  "temp_min" : 5,
+  "temp_opt" : "15-25"
+}, {
+  "BigDescr" : "They are annual, climbing herbaceous plants, highly variable in shape and habit. Peas are a cool season crop that can be enjoyed in both spring and fall. The seeds (peas) are found in pods between 5 and 10 cm long that contain between 4 and 10 units. They are rich in proteins, necessary for the development of muscles. Also, this food is a source of fiber, which helps regulate intestinal transit and combat constipation problems. It is also rich in potassium, essential for the proper functioning of the nervous system. The vitamin content of peas favors the creation of blood cells, while providing folic acid.",
+  "Descr" : "Leguminosae family. ",
+  "Name" : "Peas",
+  "continent" : "Near East",
+  "img" : "https://www.agroberichtenbuitenland.nl/binaries/medium/content/gallery/agroberichtenbuitenland/content-afbeeldingen/h/hongarije/zoldborso-2.jpg",
+  "img1200x900" : "https://i.ibb.co/Kmpr4JC/PEAS.jpg",
+  "temp_max" : 35,
+  "temp_min" : -4,
+  "temp_opt" : "16-20"
+}, {
+  "BigDescr" : "It is an annual plant. Its seeds, and by extension the plant itself, receive different names depending on the region; among the most common are beans, beans or beans, string beans, beans, beans and beans. The great variability existing in the species means that the uses and possibilities are numerous. The protein richness in dry grain is well known, but the green product has 2-3%, slightly more carbohydrates and negligible fat, all of which makes its caloric value very low. For this reason and due to its richness in fiber, it is an appropriate product for a healthy diet. The vitamin and trace element content of the green product is testimonial. The seeds contain a large number of anti-nutritional principles, but it is well known that the most important principles disappear in cooking operations.",
+  "Descr" : "Fabaceae family.",
+  "Name" : "Beans",
+  "continent" : "America",
+  "img" : "https://media.gettyimages.com/photos/beans-diagonals-picture-id157280488?s=612x612",
+  "img1200x900" : "https://i.ibb.co/hLW1KqS/BEAN.jpg",
+  "temp_max" : 30,
+  "temp_min" : 0,
+  "temp_opt" : "16-21"
+}, {
+  "BigDescr" : "They are one of the most consumed green leafy vegetables in the world. You could say that lettuces are the soul of salads because they are mainly eaten raw in cold or warm dishes. Lettuces have a mild flavor, a slightly crunchy texture and are refreshing thanks to the large amount of water they contain. Lettuces are consumed because they are a healthy food, so one of the most interesting aspects of them is their nutritional value, enhanced by the fact that lettuce is consumed on a large scale compared to other vegetables. The anticarcinogenic properties, vitamin and mineral content, as well as the polyphenol and anthocyanin content of the colored varieties, make lettuce an essential food in the diet.",
+  "Descr" : "Compositae family.",
+  "Name" : "Lettuce",
+  "continent" : "Asia",
+  "img" : "https://images-na.ssl-images-amazon.com/images/I/41CGtIyWgML._AC_.jpg",
+  "img1200x900" : "https://i.ibb.co/6Yyn4pY/LETUCE.jpg",
+  "temp-opt" : "14-18",
+  "temp_max" : 30,
+  "temp_min" : -6
+}, {
+  "BigDescr" : "Prueba",
+  "Descr" : "Pers.",
+  "Name" : "Personalized",
+  "continent" : "Spain",
+  "img" : "https://images-na.ssl-images-amazon.com/images/I/41CGtIyWgML._AC_.jpg",
+  "img1200x900" : "https://www.kold.com/resizer/JM6XWddBmjYhXi_rxIv23racQfo=/1200x900/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/YEZEJPZ3QZGBLAMA4C7ZRPJJMQ.JPG",
+  "temp_max" : 30,
+  "temp_min" : -6
+} ]
